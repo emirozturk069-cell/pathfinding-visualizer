@@ -25,3 +25,7 @@ This project was developed collaboratively by:
 
 ## Notes
 This repository is used for academic evaluation and demonstration purposes.
+
+## Academic Advisor
+This project was carried out as part of the [Algorithms] course  
+under the supervision of **Dr. [Salih SARP]**.
