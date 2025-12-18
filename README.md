@@ -21,7 +21,7 @@ This project was developed collaboratively by:
 
 - **Emir Orhun Öztürk** (GitHub: emirozturk069-cell)
 - **Omer GUNDOGDU** (GitHub: HEXDEG)
-- **Alperen KAHRAMAN** (GitHub:)
+- **Alperen KAHRAMAN** (GitHub: AlperRAM)
 
 ## Notes
 This repository is used for academic evaluation and demonstration purposes.
